@@ -17,7 +17,8 @@ function Projects() {
       id: 2,
       title: "TEXT EDITOR",
       description:
-        "Time Series Forecasting with ARIMA (AutoRegressive Integrated Moving Average) utilizes historical data to model and predict future values, accounting for trends and seasonality. By analyzing patterns in sequential data, ARIMA provides accurate forecasts, aiding in decision-making across various domains such as finance, economics, and weather prediction.",
+      "Introducing the React Text Editor - a versatile and user-friendly application built with React.js that revolutionizes your text editing experience! This innovative text editor empowers you with a range of features at your fingertips. With just a click of a button, seamlessly switch between a stylish dark mode and a classic light mode to suit your preference. Additionally, effortlessly transform your text to uppercase or lowercase with the touch of a button, enabling easy formatting. The editor even provides the ability to clear the text with a single click, ensuring a clean slate for your next masterpiece. And that's not all! With the integrated text-to-speech functionality, bring your words to life by having them spoken aloud. The React Text Editor is your go-to solution for all your text editing needs, offering convenience, style, and advanced functionality in one comprehensive package. Experience the future of text editing with the React Text Editor today!",
+      
       image:
         "text.png",
       tags: ["React", "HTML", "JS"],
