@@ -22,7 +22,7 @@ function About() {
                   options={{
                     strings: [
                       "Web Developer",
-                      "Front End Develo[er",
+                      "Front End Developer",
                       "FreeLancer",
                     ],
                     autoStart: true,
