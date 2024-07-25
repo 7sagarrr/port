@@ -26,6 +26,19 @@ function Projects() {
       webapp: "https://cryptoform.vercel.app"
     },
     
+    {
+      id: 3,
+      title: "SCHOOL WEBSITE",
+      description:
+      "Springdale Public School Website Overview This project is a fully responsive and optimized website for Springdale Public School. Built using React.js + Vite with Tailwind CSS, it features components such as a carousel, quick links, a gallery, and more. The site leverages modern best practices for performance, accessibility, and state management.",
+      
+      image:
+        "spring.jpg",
+      tags: ["React", "VITE", "JS", "TAILWIND CSS"],
+      github: "https://github.com/7sagarrr/schoolwebsite",
+      webapp: "https://schoolweb1.vercel.app/"
+    },
+
   ];
 
   const [toggle, setToggle] = useState("all");
